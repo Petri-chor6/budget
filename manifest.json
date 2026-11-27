@@ -1,7 +1,7 @@
 {
   "name": "가계부",
   "short_name": "가계부",
-  "description": "유진 님의 월간 가계부",
+  "description": "월간 가계부",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
